@@ -11,7 +11,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 </a>
 </h1> 
 
-[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,arch,arduino,aws,azure,bash,blender,c,cs,cpp,cmake,css,dart,discord,docker,dotnet,emacs,figma,flask,flutter,git,go,haskell,html,ai,java,js,kali,kotlin,latex,linux,matlab,nodejs,npm,opencv,ps,postgres,powershell,pr,py,pytorch,react,ruby,rust,tensorflow,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,windows,xd,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,arch,arduino,aws,azure,bash,blender,c,cs,cpp,cmake,css,dart,discord,docker,dotnet,emacs,figma,flask,flutter,git,go,haskell,html,ai,java,js,kali,kotlin,latex,linux,matlab,nodejs,npm,opencv,ps,postgres,powershell,pr,py,pytorch,react,ruby,rust,tensorflow,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,windows,xd)](https://skillicons.dev)
 ### Projects I'm working on
 
 
