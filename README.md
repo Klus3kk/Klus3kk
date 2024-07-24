@@ -9,9 +9,10 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 <a href="https://github.com/Klus3kk/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
+  
+[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,arch,arduino,aws,azure,bash,blender,c,cs,cpp,cmake,css,dart,discord,docker,dotnet,emacs,figma,flask,flutter,git,go,haskell,html,ai,java,js,kali,kotlin,latex,linux,matlab,nodejs,npm,opencv,ps,postgres,powershell,pr,py,pytorch,react,ruby,rust,tensorflow,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,windows,xd)](https://skillicons.dev)
 </h1> 
 
-[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,arch,arduino,aws,azure,bash,blender,c,cs,cpp,cmake,css,dart,discord,docker,dotnet,emacs,figma,flask,flutter,git,go,haskell,html,ai,java,js,kali,kotlin,latex,linux,matlab,nodejs,npm,opencv,ps,postgres,powershell,pr,py,pytorch,react,ruby,rust,tensorflow,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,windows,xd)](https://skillicons.dev)
 ### Projects I'm working on
 
 
