@@ -1,9 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Klus3kk/Klus3kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hello world
+My name is Łukasz (or Lucas, if you prefer). I've been passionate about computer science since childhood, enjoying the thrill of discovering new technologies and working on interesting and fun projects. I work mainly in C, C++, Python, Golang (and Brainf&ck if I have a bad day). I love exploring new programming languages and am always eager to learn more. In the future, I hope to build a career in Data Science.
 
-Here are some ideas to get you started:
+Besides my tech interests, I'm a music enthusiast who enjoys discovering new tunes and have a keen interest in various arts, including movies and visual arts.
+
+### Stats
+
+
+
+### Projects I'm working on
+
+
+### Links
+
+
+
+### Currently listening to...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
