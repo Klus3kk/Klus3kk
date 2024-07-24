@@ -30,7 +30,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 
 ### Projects I'm working on
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-around;">
   <div style="width: 30%;">
     <a href="https://github.com/Klus3kk/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=harmonyflow&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="harmonyflow" />
@@ -47,7 +47,6 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
     </a>
   </div>
 </div>
-
 
 
 ###### If you like what I'm currently working on, I'd be delighted if you follow me, star my works and share them to others. Thank you c:
