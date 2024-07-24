@@ -8,7 +8,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight" />
 </a>
 <a href="https://github.com/Klus3kk/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight&langs_count=20" />
 </a></h1> 
 
 
