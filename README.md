@@ -6,6 +6,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 ## Stats
 [![Klus3kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight)](https://github.com/Klus3kk/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klus3kk&size_weight=0.5&count_weight=0.5)
 
 ### Projects I'm working on
 
