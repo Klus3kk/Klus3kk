@@ -7,6 +7,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
   [![Gmail Badge](https://img.shields.io/badge/-lukaszbielaszewskibiz@gmail.com-990000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:lukaszbielaszewskibiz@gmail.com)
   
 </div>
+
 ## Stats
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight&hide=issues,contribs,prs" />
