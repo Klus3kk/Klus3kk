@@ -32,11 +32,6 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 
 <div style="display: flex; justify-content: space-around;" align="center">
   <div style="width: 30%;">
-    <a href="https://github.com/Klus3kk/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=harmonyflow&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="harmonyflow" />
-    </a>
-  </div>
-  <div style="width: 30%;">
     <a href="https://github.com/Klus3kk/melodyos">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="melodyos" />
     </a>
