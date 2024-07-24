@@ -3,10 +3,8 @@ My name is Łukasz (or Lucas, if you prefer). I've been passionate about compute
 Besides my tech interests, I'm a music enthusiast who enjoys discovering new tunes and have a keen interest in various arts, including movies and visual arts.
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%C5%82ukasz-bielaszewski-b583072a7%2F)
-
-  [![Gmail Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&link=mailto:lukaszbielaszewskibiz@gmail.com)
-
+  [![Linkedin Badge](https://img.shields.io/badge/-Klus3kk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-bielaszewski-b583072a7/)](https://www.linkedin.com/in/łukasz-bielaszewski-b583072a7/)
+  [![Gmail Badge](https://img.shields.io/badge/-lukaszbielaszewskibiz@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:lukaszbielaszewskibiz@gmail.com)
   
 </div>
 ## Stats
