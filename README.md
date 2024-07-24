@@ -1,6 +1,5 @@
 <h1 align="center">Hello World!</h1>
 My name is Łukasz (or Lucas, if you prefer). I've been passionate about computer science since childhood, enjoying the thrill of discovering new technologies and working on interesting and fun projects. I work mainly in C, C++, Python, Golang (and Brainf&ck if I have a bad day). I love exploring new programming languages and am always eager to learn more. In the future, I hope to build a career in Data Science.
-<br>
 Besides my tech interests, I'm a music enthusiast who enjoys discovering new tunes and have a keen interest in various arts, including movies and visual arts.
 
 ## Stats
@@ -11,7 +10,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a></h1> 
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Klus3kk&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 ### Projects I'm working on
 
 
