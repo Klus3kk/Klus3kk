@@ -4,12 +4,11 @@ My name is Łukasz (or Lucas, if you prefer). I've been passionate about compute
 Besides my tech interests, I'm a music enthusiast who enjoys discovering new tunes and have a keen interest in various arts, including movies and visual arts.
 
 ## Stats
-![Klus3kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight) [![Klus3kk's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Klus3kk)]
 <a href="https://github.com/Klus3kk/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Klus3kk" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight" />
 </a>
 <a href="https://github.com/Klus3kk/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 ### Projects I'm working on
 
