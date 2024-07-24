@@ -5,7 +5,8 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 
   [![Linkedin Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%C5%82ukasz-bielaszewski-b583072a7%2F)
 
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Gmail Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&link=mailto:lukaszbielaszewskibiz@gmail.com)
+
   
 </div>
 ## Stats
