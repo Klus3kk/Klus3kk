@@ -4,7 +4,7 @@ My name is Łukasz (or Lucas, if you prefer). I've been passionate about compute
 Besides my tech interests, I'm a music enthusiast who enjoys discovering new tunes and have a keen interest in various arts, including movies and visual arts.
 
 ## Stats
-[![Klus3kk's GitHub stats](https://github-readme-stats.vercel.app/api?klus3kk=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Klus3kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klus3kk)](https://github.com/Klus3kk/github-readme-stats)
 
 
 ### Projects I'm working on
