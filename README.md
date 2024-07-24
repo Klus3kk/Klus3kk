@@ -30,7 +30,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 
 ### Projects I'm working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/melodyos.git) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/harmonyflow.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/melodyos.git) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/harmonyflow.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal.git)
 
 ###### If you like what I'm currently working on, I'd be delighted if you follow me, star my works and share them to others. Thanks c:
