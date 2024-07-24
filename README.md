@@ -31,3 +31,5 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CyrisXD&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 </h1>
+
+###### If you like what I'm currently working on, I'd be delighted if you follow me, star my works and share them to others. Thanks c:
