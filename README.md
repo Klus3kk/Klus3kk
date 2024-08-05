@@ -27,6 +27,10 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Klus3kk&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 </h1> 
 
+### Latest Projects
+<h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=rym_extractor&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/rym_extractor)
 
 ### Projects I'm currently working on
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
