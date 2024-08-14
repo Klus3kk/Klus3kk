@@ -37,7 +37,8 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/melodyos.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/melodyos.git) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Machine-Learning-Algorithms&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Machine-Learning-Algorithms)
 
 </h1>
 
