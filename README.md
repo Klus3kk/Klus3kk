@@ -30,15 +30,14 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 ### Latest Projects
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Machine-Learning-Algorithms&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Machine-Learning-Algorithms) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Algorithm-Encyclopedia&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Algorithm-Encyclopedia.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=QRacing&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/QRacing.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Unity-Model-Training&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Unity-Model-Training.git)
 
 ### Projects I'm currently working on
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=QRacing&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/QRacing.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Unity-Model-Training&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Unity-Model-Training.git)
+
 
 </h1>
 
