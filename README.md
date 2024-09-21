@@ -30,14 +30,15 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 ### Latest Projects
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=QRacing&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/QRacing.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Unity-Model-Training&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Unity-Model-Training.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=boxsounds&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/boxsounds.git)  
 
 ### Projects I'm currently working on
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=E-commerce-Store&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/E-commerce-Store.git)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/melodyos.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=harmonyflow&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/harmonyflow.git) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Note-Stream&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Note-Stream.git)
 
 
 </h1>
