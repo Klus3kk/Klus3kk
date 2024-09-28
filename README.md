@@ -20,7 +20,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 </a>
   <br><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=ableton,ae,ai,anaconda,androidstudio,arch,arduino,aws,azure,bash,blender,c,cs,cpp,cmake,css,dart,discord,docker,dotnet,dynamodb,eclipse,emacs,figma,flask,flutter,git,github,go,haskell,html,idea,java,js,kali,kotlin,latex,linux,matlab,md,mint,nextjs,nodejs,npm,opencv,pycharm,pnpm,postgres,powershell,pr,ps,py,pytorch,r,react,regex,ruby,rust,sklearn,spring,svg,tailwind,tensorflow,ts,ubuntu,unity,unreal,v,vim,visualstudio,vscode,windows,xd,yarn)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ableton,ae,ai,anaconda,androidstudio,arch,arduino,aws,azure,bash,blender,c,cs,cpp,cmake,css,dart,discord,docker,dotnet,dynamodb,eclipse,emacs,figma,flask,flutter,gcp,git,github,go,haskell,html,idea,java,js,kali,kotlin,latex,linux,matlab,md,mint,nextjs,nodejs,npm,opencv,pycharm,pnpm,postgres,powershell,pr,ps,py,pytorch,r,react,regex,ruby,rust,sklearn,spring,svg,tailwind,tensorflow,ts,ubuntu,unity,unreal,v,vim,visualstudio,vscode,windows,xd,yarn)](https://skillicons.dev)
 
 <br>
 
