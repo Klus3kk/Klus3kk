@@ -31,8 +31,8 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=melodyos&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/melodyos.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=harmonyflow&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/harmonyflow.git) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=shelly&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/shelly.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=ai_repo&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/ai_repo.git)
 
 ### Projects I'm currently working on
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
@@ -40,7 +40,7 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=ai_repo&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/ai_repo.git)
+
 
 </h1>
 
