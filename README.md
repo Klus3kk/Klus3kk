@@ -38,7 +38,6 @@ Besides my tech interests, I'm a music enthusiast who enjoys discovering new tun
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety.git)
 
 
