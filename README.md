@@ -1,6 +1,16 @@
-<h1 align="center">Hello World!</h1>
-My name is Łukasz (or Lucas, if you prefer). I've been passionate about computer science since childhood, enjoying the thrill of discovering new technologies and working on interesting and fun projects. I work mainly in C, C++, Python, Golang (and Brainf&ck if I have a bad day). I love exploring new programming languages and I am always eager to learn more. In the future, I hope to build a career related to Machine Learning.
-Besides my tech interests, I'm a music enthusiast who enjoys discovering new tunes and have a keen interest in various arts, including books, movies and visual arts.
+<h1 align="center">Hello World! 🌍</h1>
+My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer science, with a focus on building a career in **Machine Learning 🤖** and **AI Engineering**. My interests include:
+
+- **Reverse Engineering 🔍**
+- **Quantum Computing ⚛️**
+- **3D Graphics 🖼️**
+- **Cybersecurity 🛡️**
+- **Linux/Windows Kernel Exploration 🐧🪟**
+- **Algorithms & Data Structures 📊**
+
+I work mainly in **C, C++, Python, and Golang** (and **Brainf&ck 🧠** if I’m in the mood for a challenge). I’m always eager to explore new programming languages and tech concepts to expand my expertise.
+
+Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new sounds and exploring the arts in **books 📚, movies 🎥,** and **visual art 🎨**.
 
 
 <div align="center">
