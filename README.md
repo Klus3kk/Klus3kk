@@ -12,7 +12,7 @@ My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer scie
 
 I work mainly in **C, C++, Python, and Golang** (and **Brainf&ck 🧠** if I’m in the mood for a challenge). I’m always eager to explore new programming languages and tech concepts to expand my expertise.
 
-Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new sounds and exploring the arts in **books 📚, movies 🎥,** and **visual art 🎨**.
+Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new exciting sounds and exploring the arts in **books 📚, movies 🎥,** and **visual art 🎨**.
 
 
 <div align="center">
