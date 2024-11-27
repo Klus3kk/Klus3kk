@@ -44,7 +44,7 @@ Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new excit
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Graph-Isomorphism-ACO-NN&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Graph-Isomorphism-ACO-NN.git) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=shelly&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/shelly.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&chatty&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/chatty.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=chatty&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/chatty.git)
 
 ### Projects I'm currently working on
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
