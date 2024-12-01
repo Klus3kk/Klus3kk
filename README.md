@@ -50,8 +50,8 @@ Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new excit
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety.git)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety.git) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/artify.git)
 
 </h1>
 
