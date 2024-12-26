@@ -3,7 +3,6 @@
 My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer science, with a focus on building a career in **Machine Learning 🤖** and **AI Engineering**. My interests include:
 
 
-
 - **Reverse Engineering 🔍**
 - **Quantum Computing ⚛️**
 - **3D Graphics 🖼️**
