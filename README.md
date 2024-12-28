@@ -1,12 +1,15 @@
 <h1 align="center">Hello World! 🌍</h1>
 
-My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer science, with a focus on building a career in **Machine Learning 🤖** and **AI Engineering**. My interests include:
+My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer science, with a focus on building a career in **Machine Learning 🤖** and **Data Science**. My interests include:
 
+- **Machine Learning 🤖**
+- **Data Science 📈**
 - **Reverse Engineering 🔍**
 - **Quantum Computing ⚛️**
 - **3D Graphics 🖼️**
 - **Cybersecurity 🛡️**
 - **Operating Systems 🐧🪟**
+- **Bioinformatics 🧬**
 - **Algorithms & Data Structures 📊**
 
 I work mainly in **C, C++, Python, and Golang** (and **Brainf&ck 🧠** if I’m in the mood for a challenge). I’m always eager to explore new programming languages and tech concepts to expand my expertise.
