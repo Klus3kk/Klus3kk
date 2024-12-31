@@ -11,6 +11,7 @@ My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer scie
 - **Operating Systems 🐧🪟**
 - **Bioinformatics 🧬**
 - **Algorithms & Data Structures 📊**
+- **Audio and Music Technology 🎵**
 
 I work mainly in **C, C++, Python, and Golang** (and **Brainf&ck 🧠** if I’m in the mood for a challenge). I’m always eager to explore new programming languages and tech concepts to expand my expertise.
 
