@@ -22,7 +22,7 @@ Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new excit
 <div align="center">
 <br>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Łukasz_Bielaszewski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-bielaszewski-b583072a7/)](https://www.linkedin.com/in/łukasz-bielaszewski-b583072a7/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Łukasz_Bielaszewski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-bielaszewski/)](https://www.linkedin.com/in/łukasz-bielaszewski/)
   [![Gmail Badge](https://img.shields.io/badge/-lukaszbielaszewskibiz@gmail.com-990000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:lukaszbielaszewskibiz@gmail.com)
   
 </div>
