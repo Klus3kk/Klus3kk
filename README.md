@@ -18,7 +18,6 @@ I work mainly in **C, C++, Python, and Golang** (and **Brainf&ck 🧠** if I’m
 
 Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new exciting sounds and exploring the arts in **books 📚, movies 🎥,** and **visual art 🎨**.
 
-
 <div align="center">
 <br>
   
