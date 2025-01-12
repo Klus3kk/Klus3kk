@@ -18,14 +18,6 @@ I work mainly in **C, C++, Python, and Golang** (and **Brainf&ck 🧠** if I’m
 
 Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new exciting sounds and exploring the arts in **books 📚, movies 🎥,** and **visual art 🎨**.
 
-<div align="center">
-<br>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-Łukasz_Bielaszewski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-bielaszewski/)](https://www.linkedin.com/in/łukasz-bielaszewski/)
-  [![Gmail Badge](https://img.shields.io/badge/-lukaszbielaszewskibiz@gmail.com-990000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:lukaszbielaszewskibiz@gmail.com)
-  
-</div>
-
 ## Stats
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight&hide=issues,contribs,prs" />
