@@ -37,16 +37,15 @@ Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new excit
 ### Latest Projects
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=Graph-Isomorphism-ACO-NN&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/Graph-Isomorphism-ACO-NN.git) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=shelly&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/shelly.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=clig&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/clig)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=gloomy&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/gloomy) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/artify.git)
 
 ### Projects I'm currently working on
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety.git) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/artify.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/cognito.git)
 
 </h1>
 
