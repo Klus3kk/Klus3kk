@@ -27,7 +27,7 @@ Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new excit
 </a>
   <br><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=ableton,ae,ai,anaconda,arch,aws,bash,blender,c,cpp,cmake,css,dart,discord,docker,dynamodb,eclipse,emacs,figma,flask,flutter,gcp,git,github,go,haskell,html,idea,js,kali,latex,linux,md,mint,nextjs,nodejs,npm,opencv,pycharm,pnpm,postgres,powershell,pr,ps,py,pytorch,r,react,regex,rust,sklearn,spring,svg,tailwind,tensorflow,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,windows,xd,yarn)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ableton,ae,ai,anaconda,arch,aws,bash,blender,c,cpp,cmake,css,dart,discord,docker,dynamodb,eclipse,emacs,figma,flask,flutter,gcp,git,github,go,haskell,html,idea,js,kali,latex,linux,md,nextjs,nodejs,npm,opencv,pycharm,pnpm,postgres,powershell,pr,ps,py,pytorch,r,react,regex,rust,sklearn,spring,svg,tailwind,tensorflow,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,windows,xd,yarn)](https://skillicons.dev)
 
 <br>
 
