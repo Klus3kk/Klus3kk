@@ -37,7 +37,7 @@ Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new excit
 ### Latest Projects
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety.git) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=endless&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/endless.git) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/artify.git) &nbsp;
 
 ### Projects I'm currently working on
@@ -46,9 +46,9 @@ Aside from tech, I'm a **music enthusiast 🎶** who loves discovering new excit
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/cognito.git) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=endless&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/endless.git) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=stellai&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/stellai.git)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=BABEL&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/BABEL.git) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=stellai&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/stellai.git) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal.git)
 
 
 </h1>
