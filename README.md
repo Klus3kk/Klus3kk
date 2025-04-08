@@ -55,8 +55,8 @@ Here are some of the most important projects I’ve built or am actively working
 [![Cognito](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/cognito) &nbsp;
 [![BABEL](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=BABEL&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/BABEL) &nbsp;
 [![StellAI](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=stellai&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/stellai) &nbsp;
-[![Animal](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal)
-
+[![Animal](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal) &nbsp;
+[![Summer](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=summer&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/summer)
 </p>
 
 ## 🆕 Latest Repos
