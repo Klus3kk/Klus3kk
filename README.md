@@ -38,8 +38,6 @@ Here are some of the most important projects I’ve built or am actively working
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight&hide=issues,contribs,prs" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Klus3kk&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </p>
 
 ## 🛠️ My Skills
@@ -55,8 +53,8 @@ Here are some of the most important projects I’ve built or am actively working
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
 [![Cognito](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/cognito) &nbsp;
-[![BABEL](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=BABEL&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/BABEL)  &nbsp;
-[![StellAI](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=stellai&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/stellai)  &nbsp;
+[![BABEL](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=BABEL&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/BABEL) &nbsp;
+[![StellAI](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=stellai&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/stellai) &nbsp;
 [![Animal](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal)
 
 </p>
@@ -65,7 +63,7 @@ Here are some of the most important projects I’ve built or am actively working
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
-[![Endless](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=endless&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/endless)  &nbsp;
+[![Endless](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=endless&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/endless) &nbsp;
 [![Artify](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/artify)
 
 </p>
