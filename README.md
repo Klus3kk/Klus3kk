@@ -67,7 +67,7 @@ Here are some of the most important projects I’ve built or am actively working
 ### 🧰 Tools / Platforms
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,jetbrains,visualstudio,aws,gcp,ubuntu,arch,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,visualstudio,aws,gcp,ubuntu,arch,linux" />
   </a>
 </p>
 
