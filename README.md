@@ -43,11 +43,48 @@ Here are some of the most important projects I’ve built or am actively working
 
 ## 🛠️ My Skills
 
+### 🤖 Machine Learning / Data Science
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,ae,ai,anaconda,arch,aws,bash,blender,c,cpp,cmake,css,dart,discord,docker,dynamodb,eclipse,emacs,figma,flask,flutter,gcp,git,github,go,haskell,html,idea,js,kali,latex,linux,md,nextjs,nodejs,npm,opencv,pycharm,pnpm,postgres,powershell,pr,ps,py,pytorch,r,react,regex,rust,sklearn,spring,svg,tailwind,tensorflow,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,windows,xd,yarn" />
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,pytorch,opencv,r,py" />
   </a>
 </p>
+
+### 🖥️ Backend / Systems Programming
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,cmake,nodejs,postgres,docker,bash" />
+  </a>
+</p>
+
+### 🌐 Frontend / Web Development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  </a>
+</p>
+
+### 🧰 Tools / Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,visualstudio,aws,gcp,ubuntu,arch,linux" />
+  </a>
+</p>
+
+### 🎨 Creative / Design
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,pr,ae,ableton,xd" />
+  </a>
+</p>
+
+### 🔍 Other
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,regex,haskell,flutter,dart,unreal,unity,kali,emacs" />
+  </a>
+</p>
+
 
 ## 🚧 Currently Building
 
