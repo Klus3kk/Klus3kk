@@ -21,18 +21,17 @@ My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer scie
 
 I work mainly in **C, C++, Python, and Golang** (and **Brainf&ck 🧠** when I feel like challenging myself). I'm always eager to explore new paradigms and languages.
 
-I'm also a music enthusiast 🎶 who loves discovering new sounds and exploring artistic expression in **books 📚, movies 🎥**, and **visual art 🎨**.
+I'm also a music enthusiast who loves discovering new sounds and exploring artistic expression in **books 📚, movies 🎥**, and **visual art 🎨**.
 
-## 🧠 Featured Projects
+## Featured Projects
 
 Here are some of the most important projects I’ve built or am actively working on:
 
-- 🧬 **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers, built for secure and intelligent static analysis.
-- 🎨 **[Artify](https://github.com/Klus3kk/artify)** – Image style transfer bot applying classical and modern art styles to photos, using deep learning.
-- 🏛️ **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ simulation of a society where NPCs use reinforcement learning to survive, trade, and evolve.
-- 🐾 **[Animal](https://github.com/Klus3kk/animal)** – Custom programming language in Go based on animal metaphors and syntax.
-- 🔧 **[Cluengine](https://github.com/Klus3kk/cluengine)** – My own simple 3D engine built in C, setting foundations for my next-gen engine StellAI.
-- 🐚 **[Shelly](https://github.com/Klus3kk/shelly)** – Custom command-line shell written in NASM, with colorful prompt logic and dynamic customization.
+- **[ClueEngine](https://github.com/Klus3kk/cluengine)** – My own simple 3D engine built in C, setting foundations for my next-gen engine StellAI.
+- **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ simulation of a society where NPCs use reinforcement learning to survive, trade, and evolve.
+- **[Artify](https://github.com/Klus3kk/artify)** – Image style transfer bot applying classical and modern art styles to photos, using deep learning.
+- **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers, built for secure and intelligent static analysis.
+- **[Animal](https://github.com/AnimalLanguage/animal)** – Custom programming language in Go based on animal metaphors and syntax, now maintained under the **[Animal Language Organization](https://github.com/AnimalLanguage)**.
 
 ## 📊 GitHub Stats
 
