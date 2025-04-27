@@ -46,7 +46,7 @@ Here are some of the most important projects I’ve built or am actively working
 ### 🤖 Machine Learning / Data Science
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,pytorch,opencv,r,py,numpy,pandas,matplotlib" />
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,pytorch,opencv,r,py" />
   </a>
 </p>
 
@@ -84,6 +84,7 @@ Here are some of the most important projects I’ve built or am actively working
     <img src="https://skillicons.dev/icons?i=latex,regex,flutter,dart,unreal,unity,kali,emacs" />
   </a>
 </p>
+
 
 
 ## 🚧 Currently Building
