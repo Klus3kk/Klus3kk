@@ -31,7 +31,7 @@ Here are some of the most important projects I’ve built or am actively working
 - **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ simulation of a society where NPCs use reinforcement learning to survive, trade, and evolve.
 - **[Artify](https://github.com/Klus3kk/artify)** – Image style transfer bot applying classical and modern art styles to photos, using deep learning.
 - **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers, built for secure and intelligent static analysis.
-- **[Animal](https://github.com/AnimalLanguage/animal)** – Custom programming language in Go based on animal metaphors and syntax, now maintained under the **[Animal Language Organization](https://github.com/AnimalLanguage)**.
+- **[Animal](https://github.com/AnimalLanguage/animal)** – Custom programming language in Go based on animal metaphors and syntax, now maintained under the **[Animal Language Organization](https://github.com/animal-lang)**.
 
 ## 📊 GitHub Stats
 
