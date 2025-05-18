@@ -26,7 +26,7 @@ I'm also a music enthusiast who loves discovering new sounds and exploring artis
 
 Here are some of the most important projects I’ve built or am actively working on:
 
-- **[ClueEngine](https://github.com/Klus3kk/cluengine)** – My own simple 3D engine built in C, setting foundations for my next-gen engine StellAI.
+- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – My own simple 3D engine built in C, setting foundations for my next-gen engine StellAI.
 - **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ simulation of a society where NPCs use reinforcement learning to survive, trade, and evolve.
 - **[Artify](https://github.com/Klus3kk/artify)** – Image style transfer bot applying classical and modern art styles to photos, using deep learning.
 - **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers, built for secure and intelligent static analysis.
