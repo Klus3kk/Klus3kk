@@ -33,14 +33,14 @@ Here are some of the most important projects I’ve built or am actively working
 - **[Animal](https://github.com/animal-lang/animal)** – Custom programming language in Go based on animal metaphors and syntax, now maintained under the **[Animal Language Organization](https://github.com/animal-lang)**.
 - **[Fit](https://github.com/Klus3kk/fit)** – My own machine learning and data science library, implementing fundamental algorithms and exploring custom models from scratch.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight&hide=issues,contribs,prs" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </p>
 
-## 🛠️ My Skills
+## My Skills
 
 ### 🤖 Machine Learning / Data Science
 <p align="center">
@@ -86,7 +86,7 @@ Here are some of the most important projects I’ve built or am actively working
 
 
 
-## 🚧 Currently Building
+## Currently Building
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
@@ -98,7 +98,7 @@ Here are some of the most important projects I’ve built or am actively working
 [![Fit](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=fit&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/fit) &nbsp;
 </p>
 
-## 🆕 Latest Repos
+## Latest Repos
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
