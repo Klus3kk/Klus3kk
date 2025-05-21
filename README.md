@@ -18,7 +18,7 @@ My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer scie
 - **Audio and Music Technology 🎵**
 - **Cloud Computing ☁️**
 
-I work mainly in **C, C++, Python, and Golang** (and **Brainf&ck 🧠** when I feel like challenging myself). I'm always eager to explore new paradigms and languages.
+I work mainly in **C, C++, Rust, Python, and Golang**. I'm always eager to explore new paradigms and languages.
 
 I'm also a music enthusiast who loves discovering new sounds and exploring artistic expression in **books 📚, movies 🎥**, and **visual art 🎨**.
 
