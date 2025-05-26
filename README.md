@@ -90,9 +90,9 @@ Here are some of the most important projects I’ve built or am actively working
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
+[![Clueengine](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=clueengine&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/clueengine) &nbsp;
 [![Cognito](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/cognito) &nbsp;
-[![BABEL](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=BABEL&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/BABEL) &nbsp;
-[![StellAI](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=stellai&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/stellai) &nbsp;
+[![MicroSociety](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety) &nbsp;
 [![Summer](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=summer&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/summer) &nbsp;
 [![Artify](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/artify)
 [![Fit](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=fit&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/fit) &nbsp;
@@ -102,8 +102,7 @@ Here are some of the most important projects I’ve built or am actively working
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
-[![Endless](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=endless&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/endless) &nbsp;
-[![Animal](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=animal&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/animal) &nbsp;
+[![BABEL](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=BABEL&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/BABEL) &nbsp;
 
 </p>
 
