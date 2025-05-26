@@ -4,23 +4,22 @@
   <em>I'm an aspiring AI Engineer / Systems Developer blending low-level programming, artificial intelligence, and creative exploration.</em>
 </p>
 
-My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer science, with a focus on building a career in **Machine Learning 🤖** and **Data Science**. My interests include:
+My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer science, with a focus on building a career in **Machine Learning** and **Data Science**. My interests include:
 
 - **Machine Learning 🤖**
 - **Data Science 📈**
-- **Reverse Engineering 🔍**
+- **Algorithms & Data Structures 📊**
 - **Quantum Computing ⚛️**
+- **Cloud Computing ☁️**
+- **Reverse Engineering 🔍**
 - **3D Graphics 🖼️**
-- **Cybersecurity 🛡️**
 - **Operating Systems 🐧🪟**
 - **Bioinformatics 🧬**
-- **Algorithms & Data Structures 📊**
 - **Audio and Music Technology 🎵**
-- **Cloud Computing ☁️**
 
 I work mainly in **C, C++, Rust, Python, and Golang**. I'm always eager to explore new paradigms and languages.
 
-I'm also a music enthusiast who loves discovering new sounds and exploring artistic expression in **books 📚, movies 🎥**, and **visual art 🎨**.
+I'm also a music enthusiast who loves discovering new sounds and exploring artistic expression in **books 📚, movies 🎥**, **visual art 🎨** and **photography**.
 
 ## Featured Projects
 
@@ -42,42 +41,42 @@ Here are some of the most important projects I’ve built or am actively working
 
 ## My Skills
 
-### 🤖 Machine Learning / Data Science
+### Machine Learning / Data Science
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,pytorch,opencv,r,py" />
   </a>
 </p>
 
-### 🖥️ Backend / Systems Programming
+### Backend / Systems Programming
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,go,cmake,nodejs,postgres,docker,bash" />
   </a>
 </p>
 
-### 🌐 Frontend / Web Development
+### Frontend / Web Development
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
   </a>
 </p>
 
-### 🧰 Tools / Platforms
+### Tools / Platforms
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,visualstudio,aws,gcp,ubuntu,arch,linux" />
   </a>
 </p>
 
-### 🎨 Creative / Design
+### Creative / Design
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,pr,ae,ableton,xd" />
   </a>
 </p>
 
-### 🔍 Other
+### Other
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=latex,regex,flutter,dart,unreal,unity,kali,emacs" />
@@ -106,4 +105,4 @@ Here are some of the most important projects I’ve built or am actively working
 
 </p>
 
-### ☕ If you like what I'm working on, feel free to follow me, star my work, or share it with others. Thanks for stopping by!
+### If you like what I'm working on, feel free to follow me, star my work, or share it with others. Thanks for stopping by!
