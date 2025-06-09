@@ -25,7 +25,7 @@ I'm also a music enthusiast who loves discovering new sounds and exploring artis
 
 Here are some of the most important projects I’ve built or am actively working on:
 
-- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – My own simple 3D engine built in C, setting foundations for my next-gen engine StellAI.
+- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – My own 3D engine built in C using OpenGL.
 - **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ simulation of a society where NPCs use reinforcement learning to survive, trade, and evolve.
 - **[Artify](https://github.com/Klus3kk/artify)** – Image style transfer bot applying classical and modern art styles to photos, using deep learning.
 - **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers, built for secure and intelligent static analysis.
@@ -89,7 +89,6 @@ Here are some of the most important projects I’ve built or am actively working
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
-[![Clueengine](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=clueengine&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/clueengine) &nbsp;
 [![Cognito](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/cognito) &nbsp;
 [![MicroSociety](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety) &nbsp;
 [![Summer](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=summer&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/summer) &nbsp;
@@ -102,6 +101,7 @@ Here are some of the most important projects I’ve built or am actively working
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
 [![BABEL](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=BABEL&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/BABEL) &nbsp;
+[![Clueengine](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=clueengine&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/clueengine)
 
 </p>
 
