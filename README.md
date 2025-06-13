@@ -1,36 +1,38 @@
 <h1 align="center">Hello World!</h1>
 
 <p align="center">
-  <em>I'm an aspiring AI Engineer / Systems Developer blending low-level programming, artificial intelligence, and creative exploration.</em>
+  <em> **Future** AI Engineer/Systems Developer building intelligent systems from the ground up – bridging low-level programming, machine learning, and full-stack applications.</em>
 </p>
 
-My name is Łukasz (or Lucas, if you prefer). I'm passionate about computer science, with a focus on building a career in **Machine Learning** and **Data Science**. My interests include:
+My name is Łukasz (or Lucas). I specialize in **Machine Learning Engineering** and **Systems Development**, with a passion for creating AI-powered applications that solve real-world problems. My core focus areas:
 
-- **Machine Learning 🤖**
-- **Data Science 📈**
-- **Algorithms & Data Structures 📊**
-- **Quantum Computing ⚛️**
-- **Cloud Computing ☁️**
+- **Machine Learning & AI Systems 🤖**
+- **Full-Stack Development 🌐**
+- **Systems Programming 🔧**
+- **Data Science & Analytics 📊**
+- **Mobile Development 📱**
+- **3D Graphics & Game Engines 🖼️**
+- **Audio/Music Technology 🎵**
+- **Cloud & DevOps ☁️**
 - **Reverse Engineering 🔍**
-- **3D Graphics 🖼️**
-- **Operating Systems 🐧🪟**
+- **Quantum Computing ⚛️**
 - **Bioinformatics 🧬**
-- **Audio and Music Technology 🎵**
 
-I work mainly in **C, C++, Rust, Python, and Golang**. I'm always eager to explore new paradigms and languages.
+I work primarily in **C/C++, Python, TypeScript, Go, and C#**, spanning everything from low-level systems to modern web applications and mobile apps.
 
-I'm also a music enthusiast who loves discovering new sounds and exploring artistic expression in **books 📚, movies 🎥**, **visual art 🎨** and **photography**.
+Beyond coding, I'm passionate about **books**, **music discovery**, **visual art 🎨**, **photography**, and exploring the intersection of **technology and creativity**.
 
 ## Featured Projects
 
 Here are some of the most important projects I’ve built or am actively working on:
 
-- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – My own 3D engine built in C using OpenGL.
-- **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ simulation of a society where NPCs use reinforcement learning to survive, trade, and evolve.
-- **[Artify](https://github.com/Klus3kk/artify)** – Image style transfer bot applying classical and modern art styles to photos, using deep learning.
-- **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers, built for secure and intelligent static analysis.
-- **[Animal](https://github.com/animal-lang/animal)** – Custom programming language in Go based on animal metaphors and syntax, now maintained under the **[Animal Language Organization](https://github.com/animal-lang)**.
-- **[Fit](https://github.com/Klus3kk/fit)** – My own machine learning and data science library, implementing fundamental algorithms and exploring custom models from scratch.
+- **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ multi-agent simulation where NPCs use reinforcement learning to survive, trade, and evolve in complex societies.
+- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – Custom 3D graphics engine built from scratch in C with OpenGL, demonstrating low-level systems expertise.
+- **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers for intelligent static analysis and security assessment.
+- **[Artify](https://github.com/Klus3kk/artify)** – Neural style transfer application with full-stack web interface, applying classical and modern art styles to images.
+- **[Fit](https://github.com/Klus3kk/fit)** – Personal ML library implementing fundamental algorithms from scratch, exploring custom model architectures.
+- **[Animal Language](https://github.com/animal-lang/animal)** – Custom programming language in Go with unique animal-based syntax, now maintained as an open-source organization.
+
 
 ## GitHub Stats
 
@@ -39,47 +41,47 @@ Here are some of the most important projects I’ve built or am actively working
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </p>
 
-## My Skills
+## Technical Stack
 
-### Machine Learning / Data Science
+### AI/ML & Data Science
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,pytorch,opencv,r,py" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,anaconda,r" />
   </a>
 </p>
 
-### Backend / Systems Programming
+### Systems & Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,cmake,nodejs,postgres,docker,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,cmake,nodejs,postgres,docker,bash" />
   </a>
 </p>
 
-### Frontend / Web Development
+### Full-Stack & Mobile
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,cs,flutter,dart" />
   </a>
 </p>
 
-### Tools / Platforms
+### Cloud & DevOps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,visualstudio,aws,gcp,ubuntu,arch,linux" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,ubuntu,arch,linux" />
   </a>
 </p>
 
-### Creative / Design
+### Creative & Design
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,pr,ae,ableton,xd" />
+    <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,pr,ae,ableton,unity,unreal" />
   </a>
 </p>
 
-### Other
+### Development Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,regex,flutter,dart,unreal,unity,kali,emacs" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,latex,regex,emacs,kali" />
   </a>
 </p>
 
