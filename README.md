@@ -4,7 +4,7 @@
   <em> **Future** AI Engineer/Systems Developer building intelligent systems from the ground up – bridging low-level programming, machine learning, and full-stack applications.</em>
 </p>
 
-My name is Łukasz (or Lucas). I specialize in **Machine Learning Engineering** and **Systems Development**, with a passion for creating AI-powered applications that solve real-world problems. My core focus areas:
+My name is Łukasz (or Lucas). I specialize in **AI Engineering** and **Systems Development**, with a passion for creating AI-powered applications that solve real-world problems. My core focus areas:
 
 - **Machine Learning & AI Systems 🤖**
 - **Full-Stack Development 🌐**
