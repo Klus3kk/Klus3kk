@@ -104,5 +104,3 @@ Here are some of the most important projects I’ve built or am actively working
 [![MicroSociety](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/microsociety) &nbsp;
 
 </p>
-
-### If you like what I'm working on, feel free to follow me, star my work, or share it with others. Thanks for stopping by!
