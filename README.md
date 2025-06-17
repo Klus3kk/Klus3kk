@@ -20,7 +20,7 @@ My name is Łukasz. I specialize in **AI Engineering** and **Systems Development
 
 I work primarily in **C/C++, Python, TypeScript, Go, and C#**, spanning everything from low-level systems to modern web applications and mobile apps.
 
-Beyond coding, I'm passionate about **books**, **music discovery**, **visual art 🎨**, **photography**, and exploring the intersection of **technology and creativity**.
+Beyond coding, I'm passionate about **books**, **music discovery**, **visual art**, **photography**, and exploring the intersection of **technology and creativity**.
 
 ## Featured Projects
 
