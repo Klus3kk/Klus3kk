@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!</h1>
 
 <p align="center">
-  <em> **Future** AI Engineer/Systems Developer building intelligent systems from the ground up – bridging low-level programming, machine learning, and full-stack applications.</em>
+  <em> **Future** AI Engineer/Systems Developer bridging low-level programming, machine learning, and full-stack applications.</em>
 </p>
 
 My name is Łukasz. I specialize in **AI Engineering** and **Systems Development**, with a passion for creating AI-powered applications that solve real-world problems. My core focus areas:
@@ -15,20 +15,20 @@ My name is Łukasz. I specialize in **AI Engineering** and **Systems Development
 - **Reverse Engineering 🔍**
 - **Quantum Computing ⚛️**
 
-I work primarily in **C/C++, Python, TypeScript, Go, and C#**, spanning everything from low-level systems to modern web applications and mobile apps.
+I work primarily in **C/C++, Python, TypeScript, Go, and C#**, on everything related from low-level systems to modern web applications.
 
 Beyond coding, I'm passionate about **books**, **music discovery**, **visual art**, **photography**, and exploring the intersection of **technology and creativity**.
 
 ## Featured Projects
 
-Here are some of the most important projects I’ve built or am actively working on:
+Here are some of the **most** important projects I’ve built or am actively working on:
 
 - **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ multi-agent simulation where NPCs use reinforcement learning to survive, trade, and evolve in complex societies.
-- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – Custom 3D graphics engine built from scratch in C with OpenGL, demonstrating low-level systems expertise.
+- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – Custom 3D graphics engine built from scratch in C with OpenGL.
 - **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers for intelligent static analysis and security assessment.
-- **[Artify](https://github.com/Klus3kk/artify)** – Neural style transfer application with full-stack web interface, applying classical and modern art styles to images.
+- **[Artify](https://github.com/Klus3kk/artify)** – Neural style transfer application with web interface, applying classical and modern art styles to images.
 - **[Fit](https://github.com/Klus3kk/fit)** – Personal ML library implementing fundamental algorithms from scratch, exploring custom model architectures.
-- **[Animal Language](https://github.com/animal-lang/animal)** – Custom programming language in Go with unique animal-based syntax, now maintained as an open-source organization.
+- **[Animal Language](https://github.com/animal-lang/animal)** – Custom programming language in Go with animal-based syntax.
 
 
 ## GitHub Stats
