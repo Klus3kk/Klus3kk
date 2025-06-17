@@ -4,7 +4,7 @@
   <em> **Future** AI Engineer/Systems Developer bridging low-level programming, machine learning, and full-stack applications.</em>
 </p>
 
-My name is Łukasz. I specialize in **AI Engineering** and **Systems Development**, with a passion for creating AI-powered applications that solve real-world problems. My core focus areas:
+My name is Łukasz. I specialize in **AI Engineering** and **Systems Development**, with a passion for creating AI-powered applications that solve real-world problems. My core focus areas contains:
 
 - **Machine Learning & AI Systems 🤖**
 - **Systems Programming 🔧**
@@ -23,12 +23,12 @@ Beyond coding, I'm passionate about **books**, **music discovery**, **visual art
 
 Here are some of the **most** important projects I’ve built or am actively working on:
 
-- **[MicroSociety](https://github.com/Klus3kk/microsociety)** – C++ multi-agent simulation where NPCs use reinforcement learning to survive, trade, and evolve in complex societies.
-- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – Custom 3D graphics engine built from scratch in C with OpenGL.
-- **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using Transformers for intelligent static analysis and security assessment.
-- **[Artify](https://github.com/Klus3kk/artify)** – Neural style transfer application with web interface, applying classical and modern art styles to images.
-- **[Fit](https://github.com/Klus3kk/fit)** – Personal ML library implementing fundamental algorithms from scratch, exploring custom model architectures.
-- **[Animal Language](https://github.com/animal-lang/animal)** – Custom programming language in Go with animal-based syntax.
+- **[MicroSociety](https://github.com/Klus3kk/microsociety)** – **C++** multi-agent simulation where NPCs use reinforcement learning to survive, trade, and evolve in complex societies.
+- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – **Custom** 3D graphics engine built from scratch in C with **OpenGL**.
+- **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using **Transformers** for intelligent static analysis and security assessment.
+- **[Artify](https://github.com/Klus3kk/artify)** – Neural **style transfer** application with web interface, applying classical and modern art styles to images.
+- **[Fit](https://github.com/Klus3kk/fit)** – Personal **ML library** implementing fundamental algorithms from scratch, exploring custom model architectures.
+- **[Animal Language](https://github.com/animal-lang/animal)** – Custom programming language in **Go** with animal-based syntax.
 
 
 ## GitHub Stats
