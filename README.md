@@ -7,16 +7,13 @@
 My name is Łukasz. I specialize in **AI Engineering** and **Systems Development**, with a passion for creating AI-powered applications that solve real-world problems. My core focus areas:
 
 - **Machine Learning & AI Systems 🤖**
-- **Full-Stack Development 🌐**
 - **Systems Programming 🔧**
 - **Data Science & Analytics 📊**
-- **Mobile Development 📱**
 - **3D Graphics & Game Engines 🖼️**
 - **Audio/Music Technology 🎵**
 - **Cloud & DevOps ☁️**
 - **Reverse Engineering 🔍**
 - **Quantum Computing ⚛️**
-- **Bioinformatics 🧬**
 
 I work primarily in **C/C++, Python, TypeScript, Go, and C#**, spanning everything from low-level systems to modern web applications and mobile apps.
 
