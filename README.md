@@ -8,8 +8,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/łukasz-bielaszewski/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/klus3kk"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/cluesec"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://instagram.com/hyperpellucid"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.last.fm/user/ClueSec"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastfm&logoColor=white" /></a>
+    <a href="https://www.last.fm/user/ClueSec"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastfm&logoColor=white" /></a>
   <a href="mailto:lukaszbielaszewskibiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
