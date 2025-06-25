@@ -1,10 +1,10 @@
 <h1 align="center">Hello World!</h1>
 
 <p align="center">
-  <em> **Future** AI Engineer/Systems Developer bridging low-level programming, machine learning, and full-stack applications.</em>
+  <em> **Future** AI Engineer/Systems Developer bragging about low-level programming, machine learning, and full-stack applications.</em>
 </p>
 
-My name is Łukasz. I specialize in **AI Engineering** and **Systems Development**, with a passion for creating AI-powered applications that solve real-world problems. My core focus areas contains:
+I specialize in **AI Engineering** and **Systems Development**, with an interest in creating AI-powered applications that solve real-world problems. My core focus areas are:
 
 - **Machine Learning & AI Systems 🤖**
 - **Systems Programming 🔧**
