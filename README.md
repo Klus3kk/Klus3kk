@@ -97,31 +97,17 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Klus3kk?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p>
-
-## 📊 GitHub Analytics
-
-<details open>
-<summary><b>📈 My GitHub Stats</b></summary>
-<br>
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klus3kk&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Klus3kk&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
 </details>
 
 <details>
-<summary><b>🏆 GitHub Trophies</b></summary>
+<summary><b>GitHub Trophies</b></summary>
 <br>
 
 <div align="center">
@@ -131,7 +117,7 @@
 </details>
 
 <details>
-<summary><b>📊 Contribution Graph</b></summary>
+<summary><b>Contribution Graph</b></summary>
 <br>
 
 <div align="center">
