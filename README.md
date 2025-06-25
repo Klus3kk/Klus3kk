@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Future+AI+Engineer+%2F+Systems+Developer;%F0%9F%94%A7+Low-Level+Programming+Enthusiast;%F0%9F%A4%96+Machine+Learning+%26+AI+Systems+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=800&lines=CS+student+exploring+AI+and+systems;From+quantum+computing+to+OpenGL;Building+tools+that+actually+work;Low-level+programming+enthusiast)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
@@ -20,10 +20,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- I'm currently working on **[Fit](https://github.com/Klus3kk/fit)** - My personal ML library
-- I'm diving deep into **AI Systems** and **Software Engineering**
-- I'm looking to collaborate on **AI-powered open source projects**
-- I'm exploring **Neural Architecture Search** and **Explainable AI**
+- I'm currently building **[Fit](https://github.com/Klus3kk/fit)** - implementing ML algorithms from scratch to truly understand them
+- Passionate about **music**, **visual art**, and **photography** 
+- Deep diving into **quantum computing** and **reverse engineering** when having a free time
+- Love solving real problems with and whatever tool fits the job
+- Focusing on AI and SE aspects.
+
 <br clear="right"/>
 
 ## Featured Projects
