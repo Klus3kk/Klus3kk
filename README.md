@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
+<img align="right" alt="Coding" width="500" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
 - I'm currently building **[Fit](https://github.com/Klus3kk/fit)** - my own ML/DL library
 - Passionate about **music**, **visual art**, **poetry** and **photography** 
@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏙️ MicroSociety</h3>
+      <h3 align="center">MicroSociety</h3>
       <div align="center">  
         <a href="https://github.com/Klus3kk/microsociety" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&theme=tokyonight&hide_border=true" alt="MicroSociety" />
@@ -45,11 +45,11 @@
           <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" />
           <img src="https://img.shields.io/badge/RL-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
         </p>
-        <p><strong>Multi-agent simulation where NPCs use reinforcement learning to survive, trade, and evolve in complex societies</strong></p>
+        <p><strong>Multi-agent simulation with NPCs that learn to survive and trade using reinforcement learning</strong></p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎮 ClueEngine</h3>
+      <h3 align="center">ClueEngine</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/clueengine" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=clueengine&theme=tokyonight&hide_border=true" alt="ClueEngine" />
@@ -60,13 +60,28 @@
           <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
           <img src="https://img.shields.io/badge/3D-FF4154?style=flat-square&logo=unity&logoColor=white" />
         </p>
-        <p><strong>Custom 3D graphics engine built from scratch with OpenGL for rendering and physics simulation</strong></p>
+        <p><strong>3D graphics engine built from scratch in C with OpenGL rendering</strong></p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 Cognito</h3>
+      <h3 align="center">Animal Language</h3>
+      <div align="center">
+        <a href="https://github.com/animal-lang/animal" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=animal-lang&repo=animal&theme=tokyonight&hide_border=true" alt="Animal Language" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+          <img src="https://img.shields.io/badge/Compiler-4B32C3?style=flat-square&logo=llvm&logoColor=white" />
+          <img src="https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+        </p>
+        <p><strong>Programming language that uses animal sounds for syntax like "roar" and "meow"</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Cognito</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/cognito" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&theme=tokyonight&hide_border=true" alt="Cognito" />
@@ -77,11 +92,13 @@
           <img src="https://img.shields.io/badge/Transformers-FF6F61?style=flat-square&logo=huggingface&logoColor=white" />
           <img src="https://img.shields.io/badge/Security-2EA44F?style=flat-square&logo=springsecurity&logoColor=white" />
         </p>
-        <p><strong>AI-powered code review assistant using Transformers for intelligent static analysis</strong></p>
+        <p><strong>Code review tool that uses AI to find bugs and security issues</strong></p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3 align="center">🎨 Artify</h3>
+      <h3 align="center">Artify</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/artify" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&theme=tokyonight&hide_border=true" alt="Artify" />
@@ -92,13 +109,28 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         </p>
-        <p><strong>Neural style transfer application with web interface for applying art styles to images</strong></p>
+        <p><strong>App that applies art styles to photos using neural networks</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">FIT</h3>
+      <div align="center">
+        <a href="https://github.com/Klus3kk/fit" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=fit&theme=tokyonight&hide_border=true" alt="FIT" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+          <img src="https://img.shields.io/badge/ML-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" />
+        </p>
+        <p><strong>Machine learning library built from scratch in Python</strong></p>
       </div>
     </td>
   </tr>
 </table>
 
-## GitHub Analytics
+## Github Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
