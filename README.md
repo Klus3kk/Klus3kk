@@ -19,7 +19,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="500" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
+<img align="right" alt="Coding" width="450" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
 - I'm currently building **[Fit](https://github.com/Klus3kk/fit)** - my own ML/DL library
 - Passionate about **music**, **visual art**, **poetry** and **photography** 
