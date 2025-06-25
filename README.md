@@ -259,11 +259,14 @@
 ## Competitive Programming
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Cluesec?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Clu3sec?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="550" />
 </div>
 
 ## Vibing to
 <div align="center">
-  
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=pqaq8cin2agtov173hfknkmpc)](https://open.spotify.com/user/pqaq8cin2agtov173hfknkmpc)
+ 
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pqaq8cin2agtov173hfknkmpc&redirect=true">
+ <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pqaq8cin2agtov173hfknkmpc&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=c061cb&bar_color_cover=true" alt="spotify-github-profile" width="550" />
+</a>
+
 </div>
