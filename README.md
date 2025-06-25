@@ -18,10 +18,10 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Klus3kk/Klus3kk/blob/main/1.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
 - I'm currently building **[Fit](https://github.com/Klus3kk/fit)** - my own ML/DL library
-- Passionate about **music**, **visual art**, and **photography** 
+- Passionate about **music**, **visual art**, **poetry** and **photography** 
 - Deep diving into **quantum computing** and **reverse engineering** when having a free time
 - Love solving real problems with and whatever tool fits the job
 - Focusing on AI and SE aspects.
