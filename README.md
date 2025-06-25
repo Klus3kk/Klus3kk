@@ -137,27 +137,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klus3kk&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html"/>
 </div>
 
-</details>
-
-<details>
-<summary><b>GitHub Trophies</b></summary>
 <br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Klus3kk&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
 </div>
 
-</details>
 
-<details>
-<summary><b>Contribution Graph</b></summary>
 <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Klus3kk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
-
-</details>
 
 ## Tech Stack & Tools
 
