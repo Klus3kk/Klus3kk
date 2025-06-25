@@ -87,14 +87,17 @@ Here are some of the **most** important projects I’ve built or am actively wor
 ## Currently Building
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
-Studies :)
+  
+[![Fit](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=fit&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/fit) &nbsp;
+
 </p>
+
 
 ## Latest Repos
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
 
 [![Cognito](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/cognito) &nbsp;
-[![Fit](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=fit&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/fit) &nbsp;
+
 
 </p>
