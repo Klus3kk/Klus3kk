@@ -18,9 +18,9 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Klus3kk/Klus3kk/blob/main/1.gif">
 
-- I'm currently building **[Fit](https://github.com/Klus3kk/fit)** - implementing ML algorithms from scratch to truly understand them
+- I'm currently building **[Fit](https://github.com/Klus3kk/fit)** - my own ML/DL library
 - Passionate about **music**, **visual art**, and **photography** 
 - Deep diving into **quantum computing** and **reverse engineering** when having a free time
 - Love solving real problems with and whatever tool fits the job
