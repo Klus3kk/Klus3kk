@@ -1,103 +1,262 @@
-<h1 align="center">Hello World!</h1>
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Future+AI+Engineer+%2F+Systems+Developer;%F0%9F%94%A7+Low-Level+Programming+Enthusiast;%F0%9F%A4%96+Machine+Learning+%26+AI+Systems+Builder)](https://git.io/typing-svg)
+
+
+
+
+</div>
+
+<!-- Social Links -->
 <p align="center">
-  <em> **Future** AI Engineer/Systems Developer bragging about low-level programming, machine learning, and full-stack applications.</em>
+  <a href="https://linkedin.com/in/klus3kk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/klus3kk"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+Instagram here
+  last.fm here
+  <a href="mailto:klus3kk@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-I specialize in **AI Engineering** and **Systems Development**, with an interest in creating AI-powered applications that solve real-world problems. My core focus areas are:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- **Machine Learning & AI Systems 🤖**
-- **Systems Programming 🔧**
-- **Data Science & Analytics 📊**
-- **3D Graphics & Game Engines 🖼️**
-- **Audio/Music Technology 🎵**
-- **Cloud & DevOps ☁️**
-- **Reverse Engineering 🔍**
-- **Quantum Computing ⚛️**
 
-I work primarily in **C/C++, Python, TypeScript, Go, and C#**, on everything related from low-level systems to modern web applications.
+## About Me
 
-Beyond coding, I'm passionate about **books**, **music discovery**, **visual art**, **photography**, and exploring the intersection of **technology and creativity**.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- I'm currently working on **[Fit](https://github.com/Klus3kk/fit)** - My personal ML library
+- I'm diving deep into **AI Systems** and **Software Engineering**
+- I'm looking to collaborate on **AI-powered open source projects**
+- I'm exploring **Neural Architecture Search** and **Explainable AI**
+<br clear="right"/>
 
 ## Featured Projects
 
-Here are some of the **most** important projects I’ve built or am actively working on:
-
-- **[MicroSociety](https://github.com/Klus3kk/microsociety)** – **C++** multi-agent simulation where NPCs use reinforcement learning to survive, trade, and evolve in complex societies.
-- **[ClueEngine](https://github.com/Klus3kk/clueengine)** – **Custom** 3D graphics engine built from scratch in C with **OpenGL**.
-- **[Cognito](https://github.com/Klus3kk/cognito)** – AI-powered code review assistant using **Transformers** for intelligent static analysis and security assessment.
-- **[Artify](https://github.com/Klus3kk/artify)** – Neural **style transfer** application with web interface, applying classical and modern art styles to images.
-- **[Fit](https://github.com/Klus3kk/fit)** – Personal **ML library** implementing fundamental algorithms from scratch, exploring custom model architectures.
-- **[Animal Language](https://github.com/animal-lang/animal)** – Custom programming language in **Go** with animal-based syntax.
-
-
-## GitHub Stats
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏙️ MicroSociety</h3>
+      <div align="center">  
+        <a href="https://github.com/Klus3kk/microsociety" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&theme=tokyonight&hide_border=true" alt="MicroSociety" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+          <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/RL-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+        </p>
+        <p><strong>Multi-agent simulation where NPCs use reinforcement learning to survive, trade, and evolve in complex societies</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 ClueEngine</h3>
+      <div align="center">
+        <a href="https://github.com/Klus3kk/clueengine" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=clueengine&theme=tokyonight&hide_border=true" alt="ClueEngine" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
+          <img src="https://img.shields.io/badge/3D-FF4154?style=flat-square&logo=unity&logoColor=white" />
+        </p>
+        <p><strong>Custom 3D graphics engine built from scratch with OpenGL for rendering and physics simulation</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 Cognito</h3>
+      <div align="center">
+        <a href="https://github.com/Klus3kk/cognito" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&theme=tokyonight&hide_border=true" alt="Cognito" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Transformers-FF6F61?style=flat-square&logo=huggingface&logoColor=white" />
+          <img src="https://img.shields.io/badge/Security-2EA44F?style=flat-square&logo=springsecurity&logoColor=white" />
+        </p>
+        <p><strong>AI-powered code review assistant using Transformers for intelligent static analysis</strong></p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎨 Artify</h3>
+      <div align="center">
+        <a href="https://github.com/Klus3kk/artify" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&theme=tokyonight&hide_border=true" alt="Artify" />
+        </a>
+        <br><br>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        </p>
+        <p><strong>Neural style transfer application with web interface for applying art styles to images</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Klus3kk&theme=tokyonight&hide=issues,contribs,prs" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Klus3kk&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</p>
-
-## Technical Stack
-
-### AI/ML & Data Science
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,anaconda,r" />
+  <a href="https://github.com/Klus3kk?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
 
-### Systems & Backend
+## 📊 GitHub Analytics
+
+<details open>
+<summary><b>📈 My GitHub Stats</b></summary>
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klus3kk&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Klus3kk&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+</details>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Klus3kk&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
+</div>
+
+</details>
+
+<details>
+<summary><b>📊 Contribution Graph</b></summary>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Klus3kk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+</details>
+
+## Tech Stack & Tools
+
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" />
+      <br>Rust
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>AI/ML</b></summary>
+<br>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,cmake,nodejs,postgres,docker,bash" />
-  </a>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### Full-Stack & Mobile
+</details>
+
+<details>
+<summary><b>Backend & Systems</b></summary>
+<br>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,cs,flutter,dart" />
-  </a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-### Cloud & DevOps
+</details>
+
+<details>
+<summary><b>Frontend & Mobile</b></summary>
+<br>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,ubuntu,arch,linux" />
-  </a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### Creative & Design
+</details>
+
+<details>
+<summary><b>☁Cloud & DevOps</b></summary>
+<br>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,pr,ae,ableton,unity,unreal" />
-  </a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-### Development Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,latex,regex,emacs,kali" />
-  </a>
-</p>
+</details>
 
+## Competitive Programming
 
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Cluesec?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</div>
 
-## Currently Building
-
-<h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
+## Vibing to
+<div align="center">
   
-[![Fit](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=fit&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/fit) &nbsp;
-
-</p>
-
-
-## Latest Repos
-
-<h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
-
-[![Cognito](https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&bg_color=0d1116&title_color=325aa8&text_color=a4aacb&icon_color=007ec6)](https://github.com/Klus3kk/cognito) &nbsp;
-
-
-</p>
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=pqaq8cin2agtov173hfknkmpc)](https://open.spotify.com/user/pqaq8cin2agtov173hfknkmpc)
+</div>
