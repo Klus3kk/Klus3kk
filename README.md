@@ -3,19 +3,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Future+AI+Engineer+%2F+Systems+Developer;%F0%9F%94%A7+Low-Level+Programming+Enthusiast;%F0%9F%A4%96+Machine+Learning+%26+AI+Systems+Builder)](https://git.io/typing-svg)
-
-
-
-
 </div>
 
-<!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/klus3kk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/łukasz-bielaszewski/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/klus3kk"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-Instagram here
-  last.fm here
-  <a href="mailto:klus3kk@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/hyperpellucid"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.last.fm/user/ClueSec"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastfm&logoColor=white" /></a>
+  <a href="mailto:lukaszbielaszewskibiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
