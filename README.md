@@ -87,7 +87,7 @@ Here are some of the **most** important projects I’ve built or am actively wor
 ## Currently Building
 
 <h1 align="center"><a href="https://github.com/Klus3kk/github-readme-stats">
-
+Studies :)
 </p>
 
 ## Latest Repos
