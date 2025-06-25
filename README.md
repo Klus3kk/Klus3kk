@@ -219,7 +219,7 @@
 </details>
 
 <details>
-<summary><b>☁Cloud & DevOps</b></summary>
+<summary><b>Cloud & DevOps</b></summary>
 <br>
 
 <p align="center">
