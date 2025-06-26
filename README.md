@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=800&lines=CS+student+exploring+AI+and+systems;From+quantum+computing+to+OpenGL;Building+tools+that+actually+work;Low-level+programming+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7734EB&center=true&vCenter=true&random=false&width=800&lines=CS+student+exploring+AI+and+systems;From+quantum+computing+to+OpenGL;Building+tools+that+actually+work;Low-level+programming+enthusiast)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
