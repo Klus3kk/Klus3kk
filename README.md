@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Animal Language</h3>
+      <h3 align="center">Animal</h3>
       <div align="center">
         <a href="https://github.com/animal-lang/animal" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=animal-lang&repo=animal&theme=tokyonight&hide_border=true" alt="Animal Language" />
