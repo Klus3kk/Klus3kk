@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
-- I'm currently building **[PixDrift](https://github.com/Klus3kk/pixdrift)** - a photo editor
+- I'm currently building **[PixDraft](https://github.com/Klus3kk/pixdraft)** - a photo editor
 - Passionate about **music**, **visual art**, **poetry** and **photography** 
 - Lately diving into **reverse engineering** 
 - Focusing on AI and SE aspects.
