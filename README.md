@@ -112,7 +112,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">FIT</h3>
+      <h3 align="center">Fit</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/fit" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=fit&theme=tokyonight&hide_border=true" alt="FIT" />
