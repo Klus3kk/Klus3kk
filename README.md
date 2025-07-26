@@ -21,10 +21,9 @@
 
 <img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
-- I'm currently building **[Fit](https://github.com/Klus3kk/fit)** - my own ML/DL library
+- I'm currently building **[PixDrift](https://github.com/Klus3kk/pixdrift)** - a photo editor
 - Passionate about **music**, **visual art**, **poetry** and **photography** 
-- Deep diving into **quantum computing** and **reverse engineering** when having a free time
-- Love solving real problems with and whatever tool fits the job
+- Lately diving into **reverse engineering** 
 - Focusing on AI and SE aspects.
 
 <br clear="right"/>
