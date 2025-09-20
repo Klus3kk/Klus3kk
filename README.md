@@ -129,7 +129,7 @@
   </tr>
 </table>
 
-## Github Analytics
+## Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -142,22 +142,31 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Klus3kk&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
 </div>
 
-
 <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Klus3kk&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-## Tech Stack & Tools
+<br>
 
-**Languages & Frameworks**
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Clu3sec?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="550" />
+</div>
+
+## Tech Stack 
+
+**Languages**
 
 <table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/r-icon.svg" alt="R" width="65" height="65" />
+      <br>R
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
@@ -174,10 +183,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
       <br>Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="65" height="65" />
@@ -217,14 +222,10 @@
   </tr>
 </table>
 
-**Backend & Systems**
+**Backend**
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
-      <br>Node.js
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
       <br>FastAPI
@@ -256,7 +257,7 @@
   </tr>
 </table>
 
-**Frontend & Mobile**
+**Frontend**
 
 <table align="center">
   <tr>
@@ -280,10 +281,6 @@
       <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />
       <br>Flutter
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="65" height="65" />
-      <br>Dart
-    </td>
   </tr>
 </table>
 
@@ -303,26 +300,12 @@
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub Actions" width="65" height="65" />
       <br>GitHub Actions
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="65" height="65" />
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="65" height="65" />
-      <br>Terraform
-    </td>
   </tr>
 </table>
 
-## Competitive Programming
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Clu3sec?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" width="550" />
-</div>
-
 ## Vibing to
+
 <div align="center">
- 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pqaq8cin2agtov173hfknkmpc&redirect=true">
  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pqaq8cin2agtov173hfknkmpc&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=c061cb&bar_color_cover=true" alt="spotify-github-profile" width="400" />
 </a>
