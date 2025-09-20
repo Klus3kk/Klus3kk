@@ -2,7 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7734EB&center=true&vCenter=true&random=false&width=800&lines=Hello+World+c:;Building+tools+that+actually+work;Low-level+programming+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=23&duration=3000&pause=500&color=2497F7&center=true&vCenter=true&width=435&lines=Hello+World+c%3A;Creating+creative%2Fcrazy+projects;Machine+Learning+and+AI;Computer+Graphics;Software+Engineering)](https://git.io/typing-svg)
+
 </div>
 
 <p align="center">
@@ -19,12 +20,11 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="350" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
+<img align="right" width="400" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
-- I'm currently building **[PixDraft](https://github.com/Klus3kk/pixdraft)** - a photo editor
-- Passionate about **music**, **visual art**, **poetry** and **photography** 
+- I'm currently tidying up my GitHub profile for something **BIG**
+- Passionate about **experimental music**, **abstract art**, **poetry** and **unusual photography** 
 - Lately diving into **reverse engineering** 
-- Focusing on AI and SE aspects.
 
 <br clear="right"/>
 
@@ -32,7 +32,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="20%">
       <h3 align="center">MicroSociety</h3>
       <div align="center">  
         <a href="https://github.com/Klus3kk/microsociety" target="_blank">
@@ -44,10 +44,10 @@
           <img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" />
           <img src="https://img.shields.io/badge/RL-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
         </p>
-        <p><strong>Multi-agent simulation with NPCs that learn to survive and trade using reinforcement learning</strong></p>
+        <p><strong>Multi-agent simulation with NPCs that learn to survive using DQL</strong></p>
       </div>
     </td>
-    <td width="50%">
+    <td width="20%">
       <h3 align="center">ClueEngine</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/clueengine" target="_blank">
@@ -59,16 +59,16 @@
           <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
           <img src="https://img.shields.io/badge/3D-FF4154?style=flat-square&logo=unity&logoColor=white" />
         </p>
-        <p><strong>3D graphics engine built from scratch in C with OpenGL rendering</strong></p>
+        <p><strong>3D graphics engine built from scratch in C using OpenGL</strong></p>
       </div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="20%">
       <h3 align="center">Animal</h3>
       <div align="center">
         <a href="https://github.com/animal-lang/animal" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=animal-lang&repo=animal&theme=tokyonight&hide_border=true" alt="Animal Language" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=animal-lang&repo=animal&theme=tokyonight&hide_border=true" alt="Animal" />
         </a>
         <br><br>
         <p>
@@ -76,10 +76,10 @@
           <img src="https://img.shields.io/badge/Compiler-4B32C3?style=flat-square&logo=llvm&logoColor=white" />
           <img src="https://img.shields.io/badge/WASM-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
         </p>
-        <p><strong>Programming language that uses animal sounds for syntax like "roar" and "meow"</strong></p>
+        <p><strong>Programming language that uses animal features for syntax</strong></p>
       </div>
     </td>
-    <td width="50%">
+    <td width="20%">
       <h3 align="center">Cognito</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/cognito" target="_blank">
@@ -96,7 +96,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="20%">
       <h3 align="center">Artify</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/artify" target="_blank">
@@ -111,7 +111,7 @@
         <p><strong>App that applies art styles to photos using neural networks</strong></p>
       </div>
     </td>
-    <td width="50%">
+    <td width="20%">
       <h3 align="center">Fit</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/fit" target="_blank">
