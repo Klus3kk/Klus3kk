@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=23&duration=3000&pause=500&color=2497F7&center=true&vCenter=true&width=435&lines=Hello+World+c%3A;Creating+creative%2Fcrazy+projects;Machine+Learning+and+AI;Computer+Graphics;Software+Engineering)](https://git.io/typing-svg)
