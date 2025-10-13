@@ -22,7 +22,7 @@
 
 <img align="right" width="400" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
-- I'm currently tidying up my GitHub profile for something **BIG**
+- I'm currently creating **the BIGGEST Spotify Songs Dataset ever made.**
 - Passionate about **experimental music**, **abstract art**, **poetry** and **unusual photography** 
 - Lately diving into **reverse engineering** 
 
