@@ -24,7 +24,7 @@
 
 - I'm currently creating **the BIGGEST Spotify Songs Dataset ever made.**
 - Passionate about **experimental music**, **abstract art**, **poetry** and **unusual photography** 
-- Lately making my **artistic portfolio site.**
+- Lately making my **artistic portfolio site** and started developing **my music searcher and recommender.**
 
 <br clear="right"/>
 
