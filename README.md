@@ -13,6 +13,8 @@
   <a href="https://instagram.com/hyperpellucid"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://medium.com/@lukaszbielaszewski"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.last.fm/user/ClueSec"><img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" /></a>
+  <a href="https://stock.adobe.com/contributor/211717924/lukasz-bielaszewski"><img src="https://img.shields.io/badge/Adobe%20Stock-DA1F26?style=for-the-badge&logo=adobe&logoColor=white" /></a>
+  <a href="https://1x.com/member/hyperpellucid"><img src="https://img.shields.io/badge/1x.com-000000?style=for-the-badge&logo=photobucket&logoColor=white" /></a>
   <a href="mailto:lukaszbielaszewskibiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -20,13 +22,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+
 ## About Me
 
-<img align="right" width="400" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
+<img align="right" width="180" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
-- I'm currently creating **the BIGGEST Spotify Songs Dataset ever made.**
-- Passionate about **experimental music**, **abstract art**, **poetry** and **unusual photography** 
-- Lately making my **artistic portfolio site** and started developing **my music searcher and recommender.**
+Currently building  
+* a **secure dynamic downloader:** [gloomyclue.com](https://gloomyclue.com)  
+* an **artistic portfolio** connecting my photography, writing, and music 
+* **NoteThrough**, an **music searcher and recommender**
+
+Interested in **music**, **abstract art**, **poetry**, and **photography**.  
+Writing on *Medium*, creating poems around art, technology, and perception.  
+Making **music projects** with an electronic-esque touch.  
+Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
 
 <br clear="right"/>
 
