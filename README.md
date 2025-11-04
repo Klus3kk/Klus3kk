@@ -28,9 +28,11 @@
 <img align="right" width="300" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
 Currently building  
-* a **secure dynamic downloader:** [gloomyclue.com](https://gloomyclue.com)  
-* an **artistic portfolio** connecting my photography, writing, and music 
 * **NoteThrough**, an **music searcher and recommender**
+* an **artistic portfolio** connecting my photography, writing, and music
+* Refurbished version of **Cognito** - with better LLM support and overall build
+* Cleaning my old project - **Microsociety**
+
 
 Interested in **music**, **abstract art**, **poetry**, and **photography**.  
 Writing on *Medium*, creating poems around art, technology, and perception.  
