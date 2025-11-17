@@ -28,10 +28,16 @@
 <img align="right" width="300" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
 Currently building:
-* **NoteThrough**, an **music searcher and recommender**
 * An **artistic portfolio** connecting my photography, writing, and music
-* Refurbished version of **Cognito** - with better LLM support and overall build
-* Cleaning my old project - **Microsociety**
+* Going into ML/AI territory (**definitely now**)
+
+Plans for projects:
+* Microsociety: optimisation, better DQL algorithm
+* Artify: web + desktop + app software for creating artistic photos from normal ones
+* Cognito: an LLM AI helper for searching for security risks and optimisation in the repository
+* Fit: uploading the library into pip, optimisation
+* LLcals: modular LLM local platform
+* My own GPT model.
 
 
 Interested in **music**, **abstract art**, **poetry**, and **photography**.  
