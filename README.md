@@ -37,7 +37,7 @@ Plans for projects:
 * Cognito: an LLM AI helper for searching for security risks and optimisation in the repository
 * Fit: uploading the library into pip, optimisation
 * LLcals: modular LLM local platform
-* My own GPT model.
+* My own custom model.
 
 
 Interested in **music**, **abstract art**, **poetry**, and **photography**.  
