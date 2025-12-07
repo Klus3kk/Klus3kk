@@ -28,8 +28,7 @@
 <img align="right" width="300" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
 Currently building:
-* An **artistic portfolio** connecting my photography, writing, and music
-* Going into ML/AI territory (**definitely now**)
+* A presentation viewer for all formats of presentations in VSCode with custom parsers
 
 Plans for projects:
 * Microsociety: optimisation, better DQL algorithm
