@@ -28,7 +28,7 @@
 <img align="right" width="300" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
 
 Currently building:
-* A presentation viewer for all formats of presentations in VSCode with custom parsers [Repository](https://github.com/Klus3kk/vscode-slides-viewer)
+* A presentation viewer for all formats in VSCode with custom parsers (**[Repository](https://github.com/Klus3kk/vscode-slides-viewer)**)
 
 Plans for projects:
 * Microsociety: optimisation, better DQL algorithm
