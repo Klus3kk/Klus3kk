@@ -54,7 +54,7 @@ Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
       <h3 align="center">MicroSociety</h3>
       <div align="center">  
         <a href="https://github.com/Klus3kk/microsociety" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&theme=tokyonight&hide_border=true" alt="MicroSociety" />
+          <img src="https://github-stats-bay-five.vercel.app/api/pin/?username=Klus3kk&repo=microsociety&theme=tokyonight&hide_border=true" alt="MicroSociety" />
         </a>
         <br><br>
         <p>
@@ -69,7 +69,7 @@ Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
       <h3 align="center">ClueEngine</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/clueengine" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=clueengine&theme=tokyonight&hide_border=true" alt="ClueEngine" />
+          <img src="https://github-stats-bay-five.vercel.app/api/pin/?username=Klus3kk&repo=clueengine&theme=tokyonight&hide_border=true" alt="ClueEngine" />
         </a>
         <br><br>
         <p>
@@ -86,7 +86,7 @@ Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
       <h3 align="center">Animal</h3>
       <div align="center">
         <a href="https://github.com/animal-lang/animal" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=animal-lang&repo=animal&theme=tokyonight&hide_border=true" alt="Animal" />
+          <img src="https://github-stats-bay-five.vercel.app/api/pin/?username=animal-lang&repo=animal&theme=tokyonight&hide_border=true" alt="Animal" />
         </a>
         <br><br>
         <p>
@@ -101,7 +101,7 @@ Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
       <h3 align="center">Cognito</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/cognito" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=cognito&theme=tokyonight&hide_border=true" alt="Cognito" />
+          <img src="https://github-stats-bay-five.vercel.app/api/pin/?username=Klus3kk&repo=cognito&theme=tokyonight&hide_border=true" alt="Cognito" />
         </a>
         <br><br>
         <p>
@@ -118,7 +118,7 @@ Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
       <h3 align="center">Artify</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/artify" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=artify&theme=tokyonight&hide_border=true" alt="Artify" />
+          <img src="https://github-stats-bay-five.vercel.app/api/pin/?username=Klus3kk&repo=artify&theme=tokyonight&hide_border=true" alt="Artify" />
         </a>
         <br><br>
         <p>
@@ -133,7 +133,7 @@ Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
       <h3 align="center">Fit</h3>
       <div align="center">
         <a href="https://github.com/Klus3kk/fit" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klus3kk&repo=fit&theme=tokyonight&hide_border=true" alt="FIT" />
+          <img src="https://github-stats-bay-five.vercel.app/api/pin/?username=Klus3kk&repo=fit&theme=tokyonight&hide_border=true" alt="FIT" />
         </a>
         <br><br>
         <p>
@@ -150,8 +150,8 @@ Contributor at *Adobe Stock* and *1x.com* as a **photographer**.
 ## Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Klus3kk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klus3kk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html"/>
+  <img height="180em" src="https://github-stats-bay-five.vercel.app/api?username=Klus3kk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-stats-bay-five.vercel.app/api/top-langs/?username=Klus3kk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,html"/>
 </div>
 
 <br>
