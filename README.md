@@ -26,7 +26,7 @@
 
 ## About Me
 
-<img align="right" width="450" src="https://github.com/user-attachments/assets/dfe5cf58-7cc5-46cc-beed-f4a233478b10">
+<img align="right" width="450" src="https://github.com/user-attachments/assets/30050789-a718-488c-aa0a-f2b8dab62a41">
 
 Currently building:
 * A presentation viewer for all formats in VSCode with custom parsers (**[Repository](https://github.com/Klus3kk/vscode-slides-viewer)**)
